@@ -164,7 +164,7 @@ We'll commence with the installation of the most commonly used tools shared acro
      ```
 
    - Now lets install `powerlevel10k` but first we need to install the recommended fonts. 
-   In order to do so please download this artifacts.
+   In order to do so please download these artifacts.
    
    
    - 
