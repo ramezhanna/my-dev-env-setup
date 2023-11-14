@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="sle"
+                 name="Setup Linux Environment"
+                 start-page="Overview-install-linux.md">
+    <toc-element topic="Overview-install-linux.md"/>
+    <toc-element topic="How-to-install-ubuntu.md"/>
+</instance-profile>
