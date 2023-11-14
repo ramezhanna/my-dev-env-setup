@@ -164,7 +164,7 @@ We'll commence with the installation of the most commonly used tools shared acro
      ```
 
    - Now lets install `powerlevel10k` but first we need to install the recommended fonts. 
-   In order to do so please download these artifacts.
+   In order to do so please download these artifacts [here](https://github.com/ramezhanna/my-dev-env-setup/blob/2145324bcb9e1a8d99cc85f30f68c1b54cadeac5/powerline-fonts.tar.xz).
    
    
    - 
